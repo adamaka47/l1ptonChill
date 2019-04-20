@@ -1,10 +1,12 @@
-
-
 body {
 	font-family: 'Open Sans', sans-serif;
-	font-size: 16px;
 	color: #7581a1;
+	font-size: 16px;
 	line-height: 26px;
+}
+
+a {
+	text-decoration: none;
 }
 
 h1 {
@@ -13,32 +15,24 @@ h1 {
 	font-size: 80px;
 }
 
-.nav {
-
-}
-
-.nav a {
+.top_nav  li a.header_link{
+	font-weight: 700;
 	font-size: 12px;
-	color: #6e7ea9;
 	text-transform: uppercase;
-	text-decoration: none;
-	font-weight: 400;
+	color: #6e7ea9;
 }
 
-a {
-	text-decoration: none;
-}
-
-a.btn {
+.top_nav  li a.header_new {
 	color: #fff;
-	text-decoration: none;
+	font-weight: 300;
+	background-color: #1085e4;
 }
 
 .grid h2 {
 	font-size: 40px;
-	color: #192b59;
 	font-weight: 700;
 }
+
 .grid h2 span {
 	font-size: 14px;
 	color: #1085e4;
@@ -51,29 +45,8 @@ a.btn {
 	color: #192b59;
 }
 
-h2 {
-	color: #192b59;
-	text-transform: capitalize;
-	font-size: 40px;
-	font-weight: 700;
-}
-
-h2 span {
-	display: block;
-	font-size: 15px;
-	color: #1085e4;
-}
-
-
 .grid-item a {
 	font-size: 14px;
 	color: #1085e4;
-	font-weight: 600;
 }
-
-
-a + ul {
-	
-}
-
 
