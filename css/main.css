@@ -1,0 +1,79 @@
+
+
+body {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 16px;
+	color: #7581a1;
+	line-height: 26px;
+}
+
+h1 {
+	font-weight: 600;
+	color: #192b59;
+	font-size: 80px;
+}
+
+.nav {
+
+}
+
+.nav a {
+	font-size: 12px;
+	color: #6e7ea9;
+	text-transform: uppercase;
+	text-decoration: none;
+	font-weight: 400;
+}
+
+a {
+	text-decoration: none;
+}
+
+a.btn {
+	color: #fff;
+	text-decoration: none;
+}
+
+.grid h2 {
+	font-size: 40px;
+	color: #192b59;
+	font-weight: 700;
+}
+.grid h2 span {
+	font-size: 14px;
+	color: #1085e4;
+	display: block;
+}
+
+.grid-item h3 {
+	font-size: 20px;
+	font-weight: 600;
+	color: #192b59;
+}
+
+h2 {
+	color: #192b59;
+	text-transform: capitalize;
+	font-size: 40px;
+	font-weight: 700;
+}
+
+h2 span {
+	display: block;
+	font-size: 15px;
+	color: #1085e4;
+}
+
+
+.grid-item a {
+	font-size: 14px;
+	color: #1085e4;
+	font-weight: 600;
+}
+
+
+a + ul {
+	
+}
+
+
